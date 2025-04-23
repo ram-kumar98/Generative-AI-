@@ -1,0 +1,62 @@
+
+What is Generative AI ?
+===========================
+GEN AI refers to algorithms that can generate new content such as text,images and audio based on the learned patterns from existing data.
+
+Limitations
+===============
+
+Gen AI models can produce biased or inaccurate outputs if not properly managed.
+
+They require significant computational resources and large datasets, which can be challenging to obtain and process.
+
+There are concerns about the misuse of AI generated content such as DeepFakes and misinformation etc.,
+
+
+Vector Embedding
+=====================
+
+Vector Embedding is a technique that represents words,phrases or data points as vectors in a
+continous vector space.
+
+Embedding model in the AI system will take care of this vector conversions.
+
+
+Large Language Model
+=========================
+
+It is a AI model that is trained on vast amounts of text data to understand and generate human like language.
+
+examples : OpenAI,Amazon Bedrock,etc.,
+
+
+Foundation Models ?
+==========================
+
+Foundation models are large scale, pre trained models that serve as a base for fine-tuning
+on specific tasks.
+
+Model only knows foundation knowledge.
+
+But still we can train this model on specific task to specialize to make it as a Fine tuned model.
+
+
+
+Retrieval-Augmented Generation (RAG)
+==========================================
+
+It combines retrieval mechanisms with generative models to produce more accurate and 
+contextually relevat outputs.
+
+Uses Cosine similarity to find the right data to retrieve based on users query.
+
+
+
+Prompt Engineering 
+=========================
+
+It is process of crafting and optimizing prompts to effectively guide the behavior of AI models,
+ensuring they generate accurate and relevant responses.
+
+
+
