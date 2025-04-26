@@ -60,3 +60,14 @@ ensuring they generate accurate and relevant responses.
 
 
 
+Framework
+==============
+
+What is LlamaIndex ?
+
+A library for integrating language models (LLMs) in applications.
+Simplifies usage of different LLMs.
+Provides tools for text processing and interaction.
+
+
+
